@@ -1,0 +1,15 @@
+{
+  "name": "fake_api_myntra",
+  "version": "1.0.0",
+  "description": "myntra app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mahi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
